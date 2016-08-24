@@ -1,4 +1,6 @@
 discord.py[voice]
 youtube_dl
+pip
 pip install --upgrade setuptools
 cffi==1.6.0; sys_platform == 'win32'
+easy_install -U setuptools
